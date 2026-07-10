@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+.android/
+*.img
+*.qcow2
+*.avd
+
+.streamlit/secrets.toml
